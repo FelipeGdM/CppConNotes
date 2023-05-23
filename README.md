@@ -13,11 +13,13 @@ Personal notes about amazing talks from CppCon
 ## CppCon 2017: Kate Gregory “10 Core Guidelines You Need to Start Using Now”
 
 [Video link](https://www.youtube.com/watch?v=XkDEzfpdcSg)
+
 [Slides link](https://github.com/CppCon/CppCon2017/tree/master/Presentations/10%20Core%20Guidelines%20You%20Need%20to%20Start%20Using%20Now)
 
 ## CppCon 2018: Kate Gregory “Simplicity: Not Just For Beginners”
 
 [Video link](https://www.youtube.com/watch?v=n0Ak6xtVXno)
+
 [Slides link](https://github.com/CppCon/CppCon2018/tree/master/Presentations/simplicity_not_just_for_beginners)
 
 > If I Had More Time, I Would Have Written a Shorter Letter - _Pascal_
